@@ -1,0 +1,22 @@
+event_data = [
+    ["Keynote Address", "10:30", "12:00", "Auditorium"],
+    ["Workshop: Machine Learning", "09:00", "11:00", "Room B"],
+    ["Networking Session", "16:00", "17:30", "Lounge"],
+    ["Panel Discussion", "18:00", "19:30", "Conference Room"],
+    ["Lunch Break", "12:30", "13:30", "Cafeteria"],
+    ["Opening Ceremony", "09:00", "10:00", "Main Hall"],
+    ["Workshop: Python Basics", "14:00", "15:30", "Room A"],
+    ["Workshop: Data Visualization", "13:00", "15:00", "Room C"],
+    ["Tech Talk: Cybersecurity", "11:30", "13:00", "Seminar Hall"],
+    ["Meet and Greet", "17:00", "18:00", "Foyer"],
+    ["Coding Competition", "14:30", "17:00", "Computer Lab"],
+    ["Career Fair", "11:00", "14:00", "Exhibition Area"],
+    ["Art Workshop", "15:00", "16:30", "Art Studio"],
+    ["Movie Screening", "19:00", "21:00", "Auditorium"],
+    ["Music Performance", "20:00", "22:00", "Concert Hall"],
+    ["Photography Exhibition", "13:30", "16:00", "Gallery"],
+    ["Sports Tournament", "10:00", "14:00", "Sports Ground"],
+    ["Gala Dinner", "19:30", "22:30", "Banquet Hall"],
+    ["Trivia Night", "20:30", "22:30", "Lounge"],
+    ["Closing Ceremony", "17:30", "19:00", "Main Hall"]
+]

@@ -1,0 +1,5 @@
+2024-07-16 13:38:08.776 [info] Extension host with pid 456 started
+2024-07-16 13:38:08.777 [info] Skipping acquiring lock for /home/snowystars/.config/Code/User/workspaceStorage/1e1b93a4cf214d653c68859ee6c4ec53.
+2024-07-16 13:38:09.486 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-16 13:38:09.567 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-16 13:38:09.576 [info] Extension host with pid 456 exiting with code 0

@@ -1,0 +1,5 @@
+2024-06-11 15:21:38.450 [info] Started local extension host with pid 1870.
+2024-06-11 15:21:40.489 [info] Started initializing default profile extensions in extensions installation folder. file:///home/snowystars/.vscode/extensions
+2024-06-11 15:21:45.026 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/snowystars/.vscode/extensions
+2024-06-11 15:21:50.028 [warning] Creation of workbench contribution 'workbench.contrib.configurationMigration' took 130ms.
+2024-06-11 15:21:52.507 [info] [perf] Render performance baseline is 111ms

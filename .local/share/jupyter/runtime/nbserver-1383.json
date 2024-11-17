@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/snowystars",
+  "password": false,
+  "pid": 1383,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "779035d0210b44dc666b38185edd233940c0d43198ef329e",
+  "url": "http://localhost:8888/"
+}

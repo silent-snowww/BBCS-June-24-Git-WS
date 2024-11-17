@@ -1,0 +1,20 @@
+2024-11-17 13:29:46.114 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 36ms.
+2024-11-17 13:29:46.127 [warning] Creation of workbench contribution 'workbench.contrib.textFileEditorTracker' took 25ms.
+2024-11-17 13:29:48.062 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 1586ms.
+2024-11-17 13:29:48.065 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 25ms.
+2024-11-17 13:29:48.141 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 129ms.
+2024-11-17 13:29:48.740 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 52ms.
+2024-11-17 13:29:52.003 [info] Started local extension host with pid 2592.
+2024-11-17 13:30:11.123 [info] [perf] Render performance baseline is 534ms
+2024-11-17 13:32:20.130 [info] Extension host (LocalProcess pid: 2592) is unresponsive.
+2024-11-17 13:32:21.104 [info] Extension host (LocalProcess pid: 2592) is responsive.
+2024-11-17 13:32:21.122 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-11-17 13:32:23.140 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-11-17 13:33:45.705 [info] Extension host (LocalProcess pid: 2592) is unresponsive.
+2024-11-17 13:33:46.453 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-11-17 13:33:46.531 [info] Extension host (LocalProcess pid: 2592) is responsive.
+2024-11-17 13:33:46.533 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-11-17 13:33:52.023 [info] Extension host (LocalProcess pid: 2592) is unresponsive.
+2024-11-17 13:33:53.596 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-11-17 13:33:54.569 [info] Extension host (LocalProcess pid: 2592) is responsive.
+2024-11-17 13:33:54.570 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

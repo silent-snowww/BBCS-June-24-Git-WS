@@ -1,0 +1,47 @@
+2024-11-17 13:30:01.847 [info] Log level: Info
+2024-11-17 13:30:01.847 [info] Validating found git in: "git"
+2024-11-17 13:30:01.847 [info] Using git "2.39.5" from "git"
+2024-11-17 13:31:43.593 [info] > git rev-parse --show-toplevel [17ms]
+2024-11-17 13:32:07.394 [info] > git rev-parse --show-toplevel [13ms]
+2024-11-17 13:32:07.424 [info] > git rev-parse --git-dir --git-common-dir [10ms]
+2024-11-17 13:32:07.512 [info] Open repository: /home/snowystars
+2024-11-17 13:32:07.564 [info] > git config --get commit.template [9ms]
+2024-11-17 13:32:07.583 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-11-17 13:32:07.585 [warning] No such branch: master.
+2024-11-17 13:32:07.988 [info] > git status -z -uall [390ms]
+2024-11-17 13:32:10.210 [info] > git check-ignore -v -z --stdin [1953ms]
+2024-11-17 13:32:10.475 [info] > git config --get commit.template [257ms]
+2024-11-17 13:32:10.612 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2024-11-17 13:32:10.612 [warning] No such branch: master.
+2024-11-17 13:32:11.103 [info] > git status -z -uall [466ms]
+2024-11-17 13:32:16.518 [info] > git config --get commit.template [26ms]
+2024-11-17 13:32:16.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2024-11-17 13:32:16.522 [warning] No such branch: master.
+2024-11-17 13:32:16.809 [info] > git status -z -uall [268ms]
+2024-11-17 13:32:30.008 [info] > git config --get commit.template [34ms]
+2024-11-17 13:32:30.016 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2024-11-17 13:32:30.017 [warning] No such branch: master.
+2024-11-17 13:32:30.380 [info] > git status -z -uall [330ms]
+2024-11-17 13:33:17.070 [info] > git config --get commit.template [57ms]
+2024-11-17 13:33:17.074 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
+2024-11-17 13:33:17.074 [warning] No such branch: master.
+2024-11-17 13:33:17.298 [info] > git status -z -uall [209ms]
+2024-11-17 13:33:35.133 [info] > git config --get commit.template [41ms]
+2024-11-17 13:33:35.139 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2024-11-17 13:33:35.139 [warning] No such branch: master.
+2024-11-17 13:33:35.377 [info] > git status -z -uall [210ms]
+2024-11-17 13:33:37.942 [info] > git check-ignore -v -z --stdin [2379ms]
+2024-11-17 13:33:40.799 [info] > git config --get commit.template [51ms]
+2024-11-17 13:33:40.852 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-11-17 13:33:40.852 [warning] No such branch: master.
+2024-11-17 13:33:41.138 [info] > git status -z -uall [264ms]
+2024-11-17 13:33:46.657 [info] > git show --textconv :rev_demos/crackme1 [33ms]
+2024-11-17 13:33:46.667 [info] > git ls-files --stage -- /home/snowystars/rev_demos/crackme1 [12ms]
+2024-11-17 13:33:48.370 [info] > git config --get commit.template [7ms]
+2024-11-17 13:33:48.459 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-11-17 13:33:48.459 [warning] No such branch: master.
+2024-11-17 13:33:48.792 [info] > git status -z -uall [267ms]
+2024-11-17 13:47:07.384 [info] > git config --get commit.template [120ms]
+2024-11-17 13:47:07.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [59ms]
+2024-11-17 13:47:07.397 [warning] No such branch: master.
+2024-11-17 13:47:08.179 [info] > git status -z -uall [728ms]

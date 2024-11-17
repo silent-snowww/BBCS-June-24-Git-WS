@@ -1,0 +1,10 @@
+2024-11-17 15:47:22.724 [info] Started local extension host with pid 3167.
+2024-11-17 15:47:33.937 [info] Extension host (LocalProcess pid: 3167) is unresponsive.
+2024-11-17 15:47:34.035 [info] [perf] Render performance baseline is 438ms
+2024-11-17 15:47:34.706 [info] Extension host (LocalProcess pid: 3167) is responsive.
+2024-11-17 15:47:38.091 [info] Extension host (LocalProcess pid: 3167) is unresponsive.
+2024-11-17 15:47:38.241 [info] Extension host (LocalProcess pid: 3167) is responsive.
+2024-11-17 15:47:38.255 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-11-17 15:47:39.456 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-11-17 15:50:16.422 [error] Error: Aborted onWillSaveTextDocument-event after 1750ms
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1765:12507

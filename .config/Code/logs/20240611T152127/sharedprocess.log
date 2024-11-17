@@ -1,0 +1,3 @@
+2024-06-11 15:21:44.929 [info] Started initializing default profile extensions in extensions installation folder. file:///home/snowystars/.vscode/extensions
+2024-06-11 15:21:50.917 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/snowystars/.vscode/extensions Unable to create file 'vscode-userdata:/home/snowystars/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-06-11 15:21:50.918 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/snowystars/.vscode/extensions
